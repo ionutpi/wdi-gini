@@ -1,1 +1,1 @@
-# wdi-gini
+# Gini coefficient models
