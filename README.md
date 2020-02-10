@@ -1,3 +1,4 @@
 # Gini coefficient models
-Cross sectional
-Multi level
+* Cross sectional
+* Cross sect with transformed data
+* Multi level
